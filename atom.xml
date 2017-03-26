@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lovebeen</title>
+  <subtitle>你是四月的风，不笑也很醉人！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lovebeen.github.io/"/>
+  <updated>2017-03-10T09:39:06.000Z</updated>
+  <id>https://lovebeen.github.io/</id>
+  
+  <author>
+    <name>lovebeen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给你的大脑加个硬盘</title>
+    <link href="https://lovebeen.github.io/2017/03/10/%E7%BB%99%E4%BD%A0%E7%9A%84%E5%A4%A7%E8%84%91%E5%8A%A0%E4%B8%AA%E7%A1%AC%E7%9B%98/"/>
+    <id>https://lovebeen.github.io/2017/03/10/给你的大脑加个硬盘/</id>
+    <published>2017-03-10T08:30:56.000Z</published>
+    <updated>2017-03-10T09:39:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>文 | 您的大名<br><img src="http://upload-images.jianshu.io/upload_images/3344688-8a2b06a9463ac671.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="简书主页"><br><a href="https://lovebeen.github.io">https://lovebeen.github.io</a><br><a href="https://www.baidu.com" target="_blank" rel="external">老王</a><br><img src="http://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png" alt="github car"></p>
+<blockquote>
+<p>注意我特地在上面的井号两字左右都加了两个星号来加粗字体。</p>
+</blockquote>
+<h1 id="基础"><a href="#基础" class="headerlink" title="基础"></a>基础</h1><p>您只要在文字前加两个<strong>井号</strong>，这几个字就变成标题了。<br> 如果在井号两边分别只加一个星号的话，就会变成<strong>斜体</strong>的<em>井号</em>。 不过斜体显示效果不明显，一般我不用斜体的。  注意到吗？我在上面三行字前面加了个大于号(英文模式下的大于号哦)，这三行字就会显示在一个漂亮的模块里了。  其实，学会标题用两个井号、加粗用两个星号、模块用一个大于号就已经出师了哦！注意，所有的符号都是英文模式下的哦！</p>
+<h1 id="进阶"><a href="#进阶" class="headerlink" title="进阶"></a>进阶</h1><p>注意到吗？我在标题前手动加上了数字。好方便读者哦，您的文字再惊世骇俗，读者花时间看您的文字，也是种缘分哦。  另外，想要使模块中的文字空行的话，一个大于号就不够用啦！得在每一段文字前加一个大于号。注意！还可以插入三个下划线，变成分割线，强行断开哦！还有，Markdown模式下，无论空多少行，都只是空一行的。  &gt; 注意我特地在第一段井号两字左右都加了两个星号来加粗字体。   &gt; 如果在井号两边分别只加一个星号的话，就会变成斜体的<em>井号</em>。  —  &gt; 不过斜体显示效果不明显，一般我不用斜体的。<br>  <li>还有一个挺好看的排版方式，您可以在每一行前加一个星号(</li><br>  <li>再次强调所有的符号都是在英文模式下的)。这样就可以依次罗列观点了。  <em> 注意我特地在第一段井号两字左右都加了两个星号来加粗字体。</em></li>  如果在井号两边分别只加一个星号的话，就会变成斜体的<em>井号</em>。 * 不过斜体显示效果不明显，一般我不用斜体的。</p><br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">#import &lt;UIKit/UIview&gt;</div><div class="line">self.view.backgroiundColor=[UIColor redColor];</div></pre></td></tr></table></figure><p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;文 | 您的大名&lt;br&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/3344688-8a2b06a9463ac671.jpg?imageMogr2/auto-orient/strip%7CimageView
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第二篇博客</title>
+    <link href="https://lovebeen.github.io/2017/03/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://lovebeen.github.io/2017/03/05/我的第二篇博客/</id>
+    <published>2017-03-05T05:21:41.000Z</published>
+    <updated>2017-03-05T05:35:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><h1>詹姆斯.哈登</h1><p></p>
+<p></p><p>哈登三分出手不中，但是造成对手三分犯规，哈登是本赛季MVP的大热门，能突能投，造犯规能力联盟一绝，罚球数在联盟前几，小加索尔挡拆，策应能力很强，中投很准</p><br><a id="more"></a><p></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;h1&gt;詹姆斯.哈登&lt;/h1&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;哈登三分出手不中，但是造成对手三分犯规，哈登是本赛季MVP的大热门，能突能投，造犯规能力联盟一绝，罚球数在联盟前几，小加索尔挡拆，策应能力很强，中投很准&lt;/p&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一遍博客</title>
+    <link href="https://lovebeen.github.io/2017/03/05/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%8D%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://lovebeen.github.io/2017/03/05/我的第一遍博客/</id>
+    <published>2017-03-05T02:53:07.000Z</published>
+    <updated>2017-03-05T02:53:07.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
